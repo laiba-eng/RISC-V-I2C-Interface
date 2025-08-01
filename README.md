@@ -23,7 +23,7 @@ The I2C module is made to support essential features depending on whether it is 
 - Clock Stretching: To show that processing the received data takes longer than expected, the slave might keep the SCL line low. 
 
 
-# Interfacing I2C With RISC-V Processor Using Mwmory Mapped I/O
+# Interfacing I2C With RISC-V Processor Using Memory Mapped I/O
 
 
 | Register Name     | Address  |
